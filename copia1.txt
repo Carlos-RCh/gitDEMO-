@@ -1,0 +1,6 @@
+texto de prueba sujeto a cambios a futuro
+
+
+git init = inicializa un repositorio git vacio dentro de gitDEMO
+
+ls -a  = puedes ver los .git creado
