@@ -4,3 +4,13 @@ texto de prueba sujeto a cambios a futuro
 git init = inicializa un repositorio git vacio dentro de gitDEMO
 
 ls -a  = puedes ver los .git creado
+
+git log = 
+
+git add archivo.txt = añadir a la zona de montaje
+KKDK
+
+git commit -m "mensaje comentario"
+
+
+ESTO ES ANTES DEL CAMBIO,  REPITO ANTES DEL CAMBIO 
