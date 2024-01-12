@@ -1,1 +1,5 @@
 texto capitulo 3 para futuro modificar
+
+git diff capitul3 = ver diferencias enre el archivo y ultimo guardado
+
+git checkout archivo.txt = lo hace retroceder este archivo a la ultima version que se comprometio en el repositorio locals
